@@ -1,18 +1,3 @@
-# Titulo
-Esto es texto
-## Subtitulo
-### Subsubtitulo
-
-Esto es codigo:  `Single line code`
-
-```
-Multi
-line
-code
-```
-
-Hi, *This is cursive* **This is bold** ***This is both, maybe***
-
 # Portada
 **Grupo Uno**
 
