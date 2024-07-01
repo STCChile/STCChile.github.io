@@ -64,7 +64,7 @@ Aquí en el siguiente diagrama podemos ver un caso de uso donde se ve la relaci�
 
 Para contextualizar el caso de uso solicitado “El técnico registra una nueva reparación, especificando marca y modelo del celular, los síntomas reportados y el diagnóstico inicial”: 
 
-[Imagen del tecnico](assets/tecnico.jpg)
+<img alt="Imagen del tecnico" src="assets/tecnico.jpg">
 
 - Caso de Uso No Funcional: La aplicación debe asegurar que los datos de los clientes estén encriptados y solo accesibles a personal autorizado.
 DISEÑO SEGURO
